@@ -21,3 +21,10 @@ IOT Wiki https://www.peerlyst.com/posts/the-iot-wiki-peerlyst?utm_source=peerlys
 Open source tools for security operations 
 https://www.peerlyst.com/posts/opensource-tools-for-security-operations-prasanna-b-mundas?utm_source=peerlyst_perspective&utm_medium=email&utm_content=peerlyst_post&utm_campaign=top_posts_on_peerlyst_this_week_04232019
 
+OSCP mega list https://www.peerlyst.com/posts/try-harder-oscp-resources-oscp-megalist-peerlyst?utm_source=peerlyst_perspective&utm_medium=email&utm_content=peerlyst_post&utm_campaign=special_digest_05122019
+
+Complete list of infosec related cheat sheets
+https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets-claus-cramon?utm_source=peerlyst_perspective&utm_medium=email&utm_content=peerlyst_post&utm_campaign=weekly_roundup_05102019
+
+Mobile App pentesting cheat sheet https://www.peerlyst.com/posts/mobile-application-penetration-testing-cheat-sheet
+
