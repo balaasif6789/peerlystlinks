@@ -28,3 +28,22 @@ https://www.peerlyst.com/posts/the-complete-list-of-infosec-related-cheat-sheets
 
 Mobile App pentesting cheat sheet https://www.peerlyst.com/posts/mobile-application-penetration-testing-cheat-sheet
 
+Powershell for exploitation and post exp
+https://www.peerlyst.com/posts/powershell-for-exploitation-and-post-exploitation-david-dunmore?
+utm_source=peerlyst_perspective&utm_medium=email&utm_content=peerlyst_post&utm_campaign=top_posts_on_peerlyst_this_week_07302019
+
+AI in cyber security
+https://www.peerlyst.com/posts/artificial-intelligence-in-cyber-security-jacob-mani?trk=post_page_recommended_reads
+
+Becoming Untraceable
+https://www.peerlyst.com/posts/becoming-untraceable-12-0_gh0st_us3r-dll-z3ro-trust?trk=post_page_recommended_reads
+
+Post exploitation wiki
+https://www.peerlyst.com/posts/the-post-exploitation-wiki-chiheb-chebbi?trk=post_page_recommended_reads
+
+mittre att&ck for threat hunting
+https://www.peerlyst.com/posts/getting-started-using-mitre-att-and-ck-for-threat-hunting-chiheb-chebbi?utm_source=peerlyst_perspective&utm_medium=email&utm_content=peerlyst_post&utm_campaign=special_digest_07282019
+
+how to break series
+https://www.peerlyst.com/posts/how-to-break-into-hackthebox-friendzone-machine-ctf-writeup-spirited-wolf?utm_source=peerlyst_perspective&utm_medium=email&utm_content=peerlyst_post&utm_campaign=weekly_roundup_07262019
+
